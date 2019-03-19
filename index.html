@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <title>Admin</title>
+    <link rel="shortcut icon" href="images/atharva.jpg" />
+    <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet">
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+
+    <!-- FontAwesome CSS -->
+    <link rel="stylesheet" href="css/fontawesome-all.min.css">
+
+    <style>
+       
+    .adform input[type="text"],
+    .adform input[type="password"]{
+        width: 100%;
+        padding: 14px 22px;
+        margin-bottom: 30px;
+        border: 0;
+        background: #f4f6f7;
+        color: #050505;
+        outline: none;
+    }
+    .adform input[type="text"]::placeholder,
+    .adform input[type="password"]::placeholder{
+       color: #7f7f7f;
+    font-style: italic;
+    }
+    .submit{
+        margin-top: 15px;
+    margin-bottom: 120px;
+        padding: 15px 30px;
+    margin-right: 20px;
+    border-radius: 0;
+    font-weight: 600;
+    background: -webkit-linear-gradient(#00d0ff, #25ffbf);
+    }
+    </style>
+</head>
+<body >
+<div class="container" >
+
+    <div class="col-12"><br><br><br></div>
+    <div ">
+           <div class="adform" style="border: 1px solid rgb(48, 7, 7);">
+    
+        <div class="col-12" >
+            <div class="col-12"><br><br></div>
+        <div class="row ">
+                
+            <div class="col-6">
+                    <form action="wel.php" method="POST">
+            <div class="col-12">
+                <input type="text" name="name" placeholder="Student Name" required >
+            </div>
+            
+            <div class="col-12 ">
+                <input type="password" name="iste" placeholder="Iste-ID" required>
+            </div>
+            
+            
+
+            <div class="col-12">
+                    <div class="col-4 submit">
+                <input type="submit" name="student" value="Get Access" class="btn">
+            </div>
+            </div>
+       
+            </div>
+        
+    
+    </div>
+    </div>
+</div>
+</body></html>
