@@ -1,4 +1,3 @@
 # iste Web-Site
-### follow this link:
-    <http://istegndec.tk/> 
+### follow [this](http://istegndec.tk/) link:
 web-site is being hosted on gcp
