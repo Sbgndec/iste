@@ -1,3 +1,3 @@
 # iste Web-Site
 ### follow this link:
-      http://istegndec.tk
+      http://istegndec.tk -automatic!
