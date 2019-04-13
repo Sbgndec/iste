@@ -1,3 +1,4 @@
 # iste Web-Site
 ### follow this link:
-      http://istegndec.tk -automatic!
+    http://istegndec.tk/ 
+web-site is being hosted on gcp
